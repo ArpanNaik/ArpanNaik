@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
+I'm basically a data scientist. I keep working on some machine learning projects. I am also interested in building some apps. You'll find these in my repositories.
 
-### Data Science Coach
-
-### What do I do for Fun?
+### My Fun?
+Sometimes work on apps, sometimes machine learning projects, sometimes anime, sometimes road trips, sometimes trekking, sometimes pc gaming.
